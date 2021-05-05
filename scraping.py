@@ -1,6 +1,7 @@
 # Import Splinter, BeautifulSoup, and Pandas
 from splinter import Browser
 from bs4 import BeautifulSoup
+import requests
 import pandas as pd
 import datetime as dt
 from webdriver_manager.chrome import ChromeDriverManager
